@@ -1,6 +1,8 @@
 body {
     padding-top: 50px;
-    font-family: "trykker", "arial black",   sans-serif;
+/*    font-family: "trykker", "arial black",   sans-serif;*/
+    font-family: megrim, "arial black",   sans-serif;
+    background-color: rgba(222, 172, 99, 0.88);
 }
 .starter-template {
     padding: 40px 15px;
@@ -15,4 +17,3 @@ body {
     margin-right: auto;
 
     
-}
